@@ -6,6 +6,15 @@
     transform: translate(-50%, -50%);
     padding: 10px;
 }
+.but{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    justify-content: space-around;
+}
+
 
 input[type=submit]{
     padding:5px 15px; 
